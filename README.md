@@ -2,8 +2,10 @@
 
 🌟 Bienvenido a mi perfil de GitHub. Aquí encontrarás proyectos enfocados en desarrollo web y sistemas backend. ¡Explora y colaboremos juntos!
 
-![Programador GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
-![Tech GIF](https://media.giphy.com/media/YYW0hHizzIOrlhimPG/giphy.gif)  
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programador GIF" width="300"/>  
+  <img src="https://media.giphy.com/media/YYW0hHizzIOrlhimPG/giphy.gif" alt="Tech GIF" width="300"/>  
+</div>
 
 **🎓 Programador en formación**  
 **💻 Junior Web Developer**  
@@ -52,8 +54,8 @@ Soy un desarrollador en formación con experiencia en backend y frontend, apasio
 ---
 
 ## 🌐 Conéctate conmigo  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jdferro/)  
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jdferro_/)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)  
 
 ---
 
