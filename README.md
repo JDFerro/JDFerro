@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programador GIF" width="150"/> 
-  <br>
+  
   <img src="https://media.giphy.com/media/YYW0hHizzIOrlhimPG/giphy.gif" alt="Tech GIF" width="150"/>  
 </div>
 
