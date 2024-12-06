@@ -1,4 +1,4 @@
-# 👋 ¡Hi! I'm Juan David Ferro Ruiz  
+# 👋 ¡Hola! Me llamo Juan David Ferro Ruiz  
 
 🌟 Bienvenido a mi perfil de GitHub. Aquí encontrarás proyectos enfocados en desarrollo web y sistemas backend. ¡Explora y colaboremos juntos!
 
